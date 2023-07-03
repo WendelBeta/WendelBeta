@@ -4,11 +4,11 @@
 </h1>
 
 <div align="center">
-  <a href="https://github.com/wendellast">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/WendelBeta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WendelBeta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
 </div>
 
-# Hello There 👋, I'm Wendel Alves 🧑‍💻
+# Hello There 👋, I'm Wendel Beta🧑‍💻
 
 <!-- Background -->
 
@@ -25,8 +25,8 @@
 <br><br>
 
 <div align="center">
-  <a href="https://github.com/wendellast">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellast&layout=compact&langs_count=7&theme=dracula"/></a>
+  <a href="https://github.com/WendelBeta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelBeta&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
 <br><br>
 
@@ -35,7 +35,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vs-Code"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python3"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 <img src="https://img.shields.io/badge/Tkinter-FFD800?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="QT"/>
@@ -74,4 +74,4 @@
 
 </div>
 
-![Snake animation](https://github.com/wendellast/wendellast/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/https://github.com/WendelBeta/blob/output/github-contribution-grid-snake.svg)
